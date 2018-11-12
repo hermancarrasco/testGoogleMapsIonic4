@@ -1,0 +1,7 @@
+{
+  "name": "mapaJS",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
